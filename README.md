@@ -73,8 +73,12 @@ To start detecting, follow the steps below
         ```
 
     ![](images/test_detected.jpg)
-    - You can try running fire detection for other images.
 
+- Fire detection sample images
+
+    ![](images/test1_detected.jpg)
+
+    ![](images/test2_detected.jpg)
 
 # Discover more Custom Models
 
