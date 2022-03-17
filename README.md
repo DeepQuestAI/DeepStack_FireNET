@@ -10,7 +10,7 @@ This repository provides a custom DeepStack model that has been trained and can 
 - **Discover more Custom Models**
 - **Train your own Model**
 
-![](images/fire_net.jpg)
+![](images/fire_net.png)
 
 # Download DeepStack Model and Dataset
 
