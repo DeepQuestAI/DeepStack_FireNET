@@ -3,7 +3,7 @@
 
 This repository provides a custom DeepStack model that has been trained and can be used for creating a new `object detection API` for detecting **fire** present indoor and outdoor using [FireNET Dataset](https://github.com/OlafenwaMoses/FireNET). Also included in this repository is that dataset with the **YOLO annotations**.
 
-[>> Watch Video Demo](https://www.youtube.com/watch?v=ts3yxfNrDnY)
+[>> Watch Video Demo](https://www.youtube.com/watch?v=cO93IYftJtM)
 
 - **Download DeepStack Model and Dataset**
 - **Create API and Detect Objects**
